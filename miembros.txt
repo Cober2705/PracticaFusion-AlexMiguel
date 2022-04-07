@@ -1,1 +1,4 @@
 ------EQUIPO ALEX/MIGUEL------
+
+miembro: Alejandro Rodriguez
+usuario: AlexRB7
