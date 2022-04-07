@@ -2,3 +2,6 @@
 
 miembro: Alejandro Rodriguez
 usuario: AlexRB7
+
+miembro: Miguel Cobertera
+usuarios: Cober2705
