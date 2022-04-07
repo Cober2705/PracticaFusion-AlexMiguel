@@ -5,8 +5,9 @@ public class Principal {
 		
 
 		Medusa medusa1 = new Medusa("Huevo", "calavera portuguesa");
-
+		Medusa medusa2 = new Medusa("Huevo2", "calavera portuguesa2");
 		medusa1.mandarMensaje();
+		medusa2.mandarMensaje();
 		
 	}
 
