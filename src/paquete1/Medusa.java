@@ -17,8 +17,4 @@ public class Medusa extends Mascota{
 		this.especie = especie;
 	}
 	
-	public void mandarMensaje() {
-		System.out.println("Soy " + getNombre() + " y te voy a picar ¡¡¡¡¡¡¡PSSSIIIIIII!!!!!!");
-	}
-	
 }

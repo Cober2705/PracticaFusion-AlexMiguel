@@ -28,7 +28,7 @@ public class Mascota {
 	}
 
 	public void mandarMensaje() {
-		System.out.println("Soy " + this.nombre + " y te voy a contar algo o no");
+		System.out.println("Soy master y te voy a contar algo o no");
 	}
 
 }
