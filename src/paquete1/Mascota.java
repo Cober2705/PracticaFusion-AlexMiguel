@@ -3,6 +3,15 @@ package paquete1;
 public class Mascota {
 	
 	private String nombre;
+	private int numPatas;
+
+	public int getNumPatas() {
+		return numPatas;
+	}
+
+	public void setNumPatas(int numPatas) {
+		this.numPatas = numPatas;
+	}
 
 	public Mascota(String nombre) {
 		this.nombre = nombre;
