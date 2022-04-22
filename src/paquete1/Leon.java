@@ -12,6 +12,7 @@ public class Leon extends Mascota{
 		this.sexo = sexo;
 	}
 
+	
 	public Leon(String nombre, String sexo) {
 		super(nombre);
 		this.sexo = sexo;
