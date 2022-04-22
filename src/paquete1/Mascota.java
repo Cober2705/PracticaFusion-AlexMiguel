@@ -3,6 +3,8 @@ package paquete1;
 public class Mascota {
 	
 	private String nombre;
+	private int edad;
+	
 
 	public Mascota(String nombre) {
 		this.nombre = nombre;
@@ -15,6 +17,14 @@ public class Mascota {
 
 	public void setNombre(String nombre) {
 		this.nombre = nombre;
+	}
+
+	public int getEdad() {
+		return edad;
+	}
+
+	public void setEdad(int edad) {
+		this.edad = edad;
 	}
 
 	public void mandarMensaje() {
